@@ -1,1 +1,1 @@
-# introspector-java-releases
+# Codename SCNR Introspector releases
