@@ -1,1 +1,1 @@
-# Codename SCNR Introspector releases
+# Codename SCNR Introspector for Java releases
